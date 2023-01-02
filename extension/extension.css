@@ -1,0 +1,56 @@
+html {
+    background-image: url("english-classroom.jpg");
+  }
+
+
+body{
+    padding: 10px;
+}
+
+input{
+    padding-left: 10px;
+    padding-right: 10px;
+    width:100%;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 1px solid cyan;
+    margin-bottom: 10px; 
+    
+}
+box{
+    padding-left: 20px;
+    padding-right: 20px;
+    width:100%;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border: 1px solid cyan;
+    margin-bottom: 10px; 
+    color: aliceblue;
+    background-color: aqua;
+}
+button{
+    padding-left: 60px;
+    padding-right: 60px;
+    width:100%;
+    box-sizing: border-box;
+    padding-bottom: 70px;
+    padding-top: 70px;
+    border: 1px solid cyan;
+    margin-bottom: 10px; 
+    color: aliceblue;
+    background-color: aqua;
+    font-weight: bold;
+}
+ul{
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 10px;
+}
+li{
+    margin-top: 5px;
+}
+a{
+    color:green;
+}
